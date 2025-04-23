@@ -1,6 +1,7 @@
 {
   "name": "personalwebsite",
   "private": true,
+  "homepage": "https://zaved707.github.io/personalWebsite/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
